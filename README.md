@@ -13,7 +13,7 @@ A guide to prepare for the CompTIA Sy0-701 Exam in 2024
 **CompTIA Sy0-701 Study Guides:** Choose reputable study guides that align with the 2024 exam objectives. Look for guides that offer clear explanations, practice questions, and exam tips.
 **Online Courses:** Consider enrolling in online courses that provide structured learning, interactive exercises, and expert guidance.
 **Practice Exams:** Utilize practice exams to assess your knowledge, identify weak areas, and simulate the real exam environment.
-**Official CompTIA Resources:** Refer to CompTIA's official website for study materials, sample questions, and exam preparation tips.
+**Official CompTIA Resources:** Refer to CompTIA's official website for study materials, sample questions, and exam preparation tips **(I personally used comptia security sy0-701 exam dumps from preparexams for passing with good grades)**.
 
 **3. Create a Study Plan:**
 
